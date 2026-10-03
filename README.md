@@ -293,6 +293,6 @@ This project is developed for **educational and academic purposes**.
 
 ## 👨‍💻 Author
 
-Developed by **Shivram Aade** and Team as a **Smart Public Transportation System** project.
+Developed by **Shivram Aade** as a **Smart Public Transportation System** project.
 
 **MoveSmart - Search. Track. Travel.**
